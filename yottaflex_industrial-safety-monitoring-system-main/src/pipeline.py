@@ -2,7 +2,7 @@
 
     python src/pipeline.py                 # generate data
     python src/pipeline.py --force         # regenerate, then analyze + export
-
+    
 Baseline tables are written to ``data/`` and the scenario population to
 ``data/scenarios/``.  The two populations are never written to the same file.
 """
