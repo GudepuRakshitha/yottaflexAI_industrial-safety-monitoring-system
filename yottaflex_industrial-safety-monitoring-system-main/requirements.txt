@@ -1,0 +1,8 @@
+# Runtime dependencies — compatible with Python 3.12 / 3.14.
+# Install with:
+#     python -m pip install -r requirements.txt
+streamlit>=1.40.0
+pandas>=2.2.0,<3.0.0
+plotly>=5.24.0
+numpy>=2.0.0,<3.0.0
+pyarrow>=18.0.0

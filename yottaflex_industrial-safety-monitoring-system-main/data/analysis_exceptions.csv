@@ -1,0 +1,6 @@
+exception_type,entity,record_id,severity,plant_id,machine_id,case_id,is_routine_sla,description
+ACK_BEFORE_ALARM,Acknowledgement,ACK-EDGE-001-01,CRITICAL,PLT-002,MCH-020,EDGE-001,False,Acknowledgement timestamp precedes its alarm activation.
+INTERLOCK_STATE_MISMATCH,Interlock,INT-EDGE-002,CRITICAL,PLT-001,MCH-001,EDGE-002,False,Current interlock state contradicts the required safe state.
+INCIDENT_WITHOUT_VALID_TRIGGER,Incident,INC-EDGE-003,LOW,PLT-001,MCH-015,EDGE-003,False,Incident has no qualifying HIGH/CRITICAL alarm on a RUNNING machine at the incident creation time.
+DUPLICATE_ALARM_REPLAY,AlarmEvent,ALM-EDGE-004-01,LOW,PLT-001,MCH-010,EDGE-004,False,Alarm event primary key appears 2 times.
+CLOSED_WITHOUT_VERIFICATION,CorrectiveAction,ACT-EDGE-005,HIGH,PLT-002,MCH-028,EDGE-005,False,Corrective action is CLOSED without successful verification.
