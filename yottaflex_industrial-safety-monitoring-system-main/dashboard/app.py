@@ -1,7 +1,6 @@
 """SAFEGUARD — Industrial Safety Intelligence dashboard.
 
 Run with::
-
     streamlit run dashboard/app.py
 
 The dashboard is a presentation layer only.  Every KPI and every chart series
