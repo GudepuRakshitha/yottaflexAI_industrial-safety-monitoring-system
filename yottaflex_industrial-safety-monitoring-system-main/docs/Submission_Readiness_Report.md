@@ -1,7 +1,7 @@
 # YottaFlex Candidate Project Submission Readiness Report
 
 **Project Title**: Industrial Safety Monitoring System (SAFEGUARD)  
-**Repository**: `https://github.com/GudepuRakshitha/yottaflex_industrial-safety-monitoring-system`  
+**Repository**: `https://github.com/GudepuRakshitha/yottaflexAI_industrial-safety-monitoring-system`  
 **Candidate / Developer**: Gudepu Rakshitha Reddy  
 **Date of Audit**: October 30, 2026  
 **Audit Scope**: Full repository inspection against YottaFlex Candidate Project Submission Guidelines  
